@@ -1,0 +1,42 @@
+.login-form-control {
+  background-color: transparent;
+  border: unset;
+  border-radius: 0;
+  border-bottom: 1px solid #707070;
+  transition: 0.7s;
+  color: white;
+  padding: 10px 10px;
+  width: 100%;
+}
+
+.login-form-control:focus {
+  color: white;
+  background-color: transparent;
+  border-bottom-color: red;
+  outline: 0;
+  box-shadow: unset;
+}
+
+.login-form-card a {
+  color: red;
+  text-decoration: none;
+}
+
+.input-borderless {
+  background-color: transparent;
+  border: unset;
+  border-radius: 0;
+  border-bottom: 1px solid #707070;
+  transition: 0.7s;
+  color: white;
+  padding: 0 10px;
+  width: 100%;
+}
+
+.input-borderless:focus {
+  color: white;
+  background-color: transparent;
+  border-bottom-color: red;
+  outline: 0;
+  box-shadow: unset;
+}

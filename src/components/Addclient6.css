@@ -1,0 +1,108 @@
+.formportinutdfg
+{
+    border:0;
+    outline:0;
+    border-bottom: 1px solid green ;
+    border-radius: 0%;
+}
+.imgchang6
+{
+    height: 80px;
+    width: 80px;
+  
+    border-radius: 50%;
+    background-image: url("../Images/admin-image.png");
+    background-size: cover;
+}
+.sa
+{
+    background-color: #ba254f;
+    border: none;
+    color: white;
+    width: auto;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 10px;
+    height: 35px;
+    display:flex ;
+    justify-content: center;
+    align-items: center;
+    width: 250px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.formcontainerd
+{
+    height: 95%;
+    width: 100%;
+    border-radius: 20px;
+    padding: 0px 20px;
+  background-color:rgba(42, 46, 67, 0.518) ;
+    box-shadow: 0px 0px 5px black;
+    margin-top: -20px;
+    margin-bottom: -20px;
+}
+
+
+.formcontainerdr
+{
+    box-shadow: rgba(255, 255, 255, 0.25) 0px 13px 27px -5px, rgba(255, 254, 254, 0.3) 0px 8px 16px -8px;
+    height: 70%;
+    width: 100%;
+    border-radius: 20px;
+    padding: 50px 350px;
+  background-color:rgba(42, 46, 67, 0.518) ;
+    box-shadow: 0px 0px 5px black;
+    margin-top: -20px;
+}
+.setc
+{
+margin-left: 50px;
+margin-top: 20px;
+}
+.setcf
+{
+    margin-left: 50px;
+    margin-top: -80px;
+}
+.mainheadingportd
+{
+    color: white;
+    margin-left: -580px;
+}
+.mainheadingportdce
+{
+    color: white;
+    margin-left: 200px;
+    margin-top: 20px;
+}
+.mainheadingportdk
+{
+    color: white;
+    margin-left: 200px;
+    margin-top: 20px;
+}
+.containerportd
+{
+    
+   height: 90%;
+   padding: 0px 30px;
+    width: 100%;
+     display: flex;
+     flex-shrink: 3;
+    flex-direction: column; 
+    margin-top: 30px;  
+}
+.whit
+{
+    color: white;
+}
+.imgset
+{
+    height: 90%;
+    margin-right: 20px;
+}

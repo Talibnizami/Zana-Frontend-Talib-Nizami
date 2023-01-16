@@ -1,0 +1,68 @@
+.Mitt12form
+{
+  box-shadow: rgba(252, 252, 252, 0.25) 0px 2px 5px -1px, rgba(245, 245, 245, 0.3) 0px 1px 3px -1px;
+    height: 63%;
+    width: 60%;
+    box-shadow: 1px 2px 5px black;
+    align-self: flex-start;
+    border-radius: 40px;
+    margin-left: 40px;
+    padding: 30px;
+}
+
+  th,td
+  {
+    height: 40px;
+    width: 50%;
+   padding-top: 10px;
+  }
+  table
+  {
+    width: 100%;
+    margin-top: 50px;
+  }
+  .test
+  {
+    background-color: gainsboro;
+  }
+  .testselect
+  {
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+    background-color: transparent;
+    box-shadow: 1px 2px black;
+    color: white;
+  }
+  .runing
+  {
+    color: white;
+  }
+  .cretebtn
+  {
+    width: 110px;
+    height: 40px;
+    background-color: #C40566;
+    color: white;
+    border: none;
+    border-radius: 5px;
+  }
+  .cretebtndf
+  {
+    width: 110px;
+    height: 40px;
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 5px;
+  }
+  .canbtn
+  {
+    width: 110px;
+    height: 40px;
+    background-color: rgb(94, 92, 93);
+    box-shadow: 1px 2px black;
+    color: white;
+    border: none;
+    border-radius: 5px;
+  }

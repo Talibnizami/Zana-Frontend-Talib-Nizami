@@ -1,0 +1,174 @@
+
+        #img
+        {
+            margin-left: 40px;
+            margin-bottom: 30px;
+        }
+        .logbody
+        {
+            height: 100vh;
+            width: 100vw;
+            background-color:rgb(42,46,67) ;
+             display: flex;flex-shrink: 3;
+            flex-wrap: nowrap;
+            align-items: center;
+        }
+        .createtext
+        {
+        text-decoration: none;
+        color: white;
+        }
+        #createuser
+        {
+            font-family: inherit;border-radius: 6px;
+            font-size: 17px;
+            margin-top: 15px;
+            background-color: #ba254f;
+            border: 1px solid #dddfe2;
+            height: 50px;
+            width: 200px;
+            font-weight: bold;
+            color: white;
+        }
+        #pass
+        {
+            margin-top: -20px;
+        }
+        #email
+        {
+            margin-top: 20px;
+        }
+        #logbtn
+        {
+            text-decoration: none;
+            color: white;
+        }
+        #botminner
+        {
+            width: 90%;
+            height: 1px;
+            border-bottom: 1px solid #dddfe2;
+            margin-top: 15px;
+        }
+        .first
+        {
+flex: 4;
+height: 45%;
+margin-left: 11%;
+        }
+        #forgt
+        {
+            margin-top: 20px;
+            color: rgb(204,20,71);
+        }
+        #lib
+        {
+            margin-top: -20px;
+            border-radius: 6px;
+            font-size: 17px;
+            padding: 14px 16px;
+            width: 330px;
+            background-color: #ba254f;
+             border: 1px solid #dddfe2;
+             height: 50px;
+             line-height: 16px;
+             vertical-align: middle;
+        }
+        #ld
+        {
+            flex: 0.5;
+        }
+ .secound
+        {
+           
+flex: 2.5;
+height: 55%;
+background-color:rgb(42,46,67) ;
+margin-right: 12%;
+margin-left: 20px;
+border-radius: 10px;
+ display: flex;flex-shrink: 3;
+align-items: center;
+flex-direction: column;
+box-shadow: 0 2px 4px black, 0 8px 16px black;
+        }
+        #par
+        {
+            font-size: 28px;
+    line-height: 28px;
+    margin-left: 30px;
+        }
+        #img
+        {
+            height: 106px;
+   
+        }
+        input
+        {
+            font-family: inherit;
+            border-radius: 6px;
+            font-size: 17px;
+    padding: 14px 16px;
+    width: 330px;
+    /* background-color: transparent; */
+    /* border: 1px solid #dddfe2; */
+    height: 50px;
+    line-height: 16px;
+    vertical-align: middle;
+        }
+    
+        @media only screen and (max-width: 400px)
+ {
+
+    .logbody
+    {
+        height: 70vh;
+        width: 100vw;
+        background-color:rgb(42,46,67) ;
+        
+    }
+ #ld
+ {
+     display: none;
+ }
+ .first
+ {
+    display: none;
+ }
+ .secound
+        {
+
+background-color: rgb(43, 40, 40);;
+margin-right: 4%;
+margin-left: 10px;
+border-radius: 10px;
+align-items: center;
+box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+        }
+        input
+        {
+            font-family: inherit;
+            border-radius: 6px;
+            font-size: 12px;
+    padding: 5px 8px;
+    width: 200px;
+    background-color: transparent;
+    border: 1px solid #dddfe2;
+    height: 30px;
+    line-height: 12px;
+    vertical-align: middle;
+        }
+        #lib
+        {
+            margin-top: -20px;
+            border-radius: 6px;
+            font-size: 13px;
+            padding: 5px 8px;
+            width: 200px;
+            background-color: #ba254f;
+             border: 1px solid #dddfe2;
+             height: 30px;
+            line-height: 9px;
+            vertical-align: middle;
+        }
+ }

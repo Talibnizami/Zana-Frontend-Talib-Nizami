@@ -1,0 +1,30 @@
+.button-container {
+  padding: 0 15px;
+  margin: 5px;
+}
+
+.btnPrimary {
+  background-color: var(--button-color);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  min-width: 100px;
+  height: 35px;
+}
+
+.btnPrimary:hover {
+  background-color:  #C40566;
+}
+
+.btnSecondary {
+  background-color: #999999;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  min-width: 100px;
+  height: 35px;
+}
+
+.btnSecondary:hover {
+  background-color: #817e7e;
+}

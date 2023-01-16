@@ -1,0 +1,514 @@
+.collapsible {
+    background-color: rgb(186, 37, 79);
+    color: white;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+  }
+  .active, .collapsible:hover {
+    background-color: rgb(186, 37, 79);
+    /* border: 1px solid white; */
+  }
+  
+  .content {
+    height: 400px;
+    padding: 0 18px;
+    /* display: none; */
+    /* overflow: hidden; */
+    background-color: #f1f1f1;
+  }
+.mitcardimgdsd{
+    height: 60px;
+    width: 60px;
+    margin-bottom: 2px;
+    border: 1px solid white;
+    border-radius: 50%;
+    background-image: url("https://media.istockphoto.com/id/862263568/photo/studio-shot-of-young-african-man-wearing-black-shirt-in-black-and-white.jpg?b=1&s=170667a&w=0&k=20&c=bCo6B8_Cueg7Og2-5f9e9T4TJfYvBfXS9hCsAfubUJs=");
+    background-size: cover;
+    margin-left: 80px
+}
+.sortby
+{
+    margin-left: 20px;
+}
+.m14p
+{
+    display: inline;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+.ok
+{
+    margin-top: 20px;
+    border-radius: 10px;
+    width: 50px;
+    height: 40px;
+    background-color: #ba254f;
+    border: none;
+    color: white;
+    cursor: pointer;
+
+}
+.containervertcard
+{
+    
+   height: 70%;
+    width: 90%;
+    margin-top: 60px;
+     display: flex;flex-shrink: 3;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+   border-radius: 50px;
+    
+}
+.accordion-body
+{
+    padding: 1px;
+    border: 2px solid;
+}
+.mit14img
+{
+    height: 60px;
+    width: 60px;
+    margin-bottom: 2px;
+    border: 1px solid white;
+    border-radius: 50%;
+    background-image: url("https://media.istockphoto.com/id/862263568/photo/studio-shot-of-young-african-man-wearing-black-shirt-in-black-and-white.jpg?b=1&s=170667a&w=0&k=20&c=bCo6B8_Cueg7Og2-5f9e9T4TJfYvBfXS9hCsAfubUJs=");
+    background-size: cover;
+    
+}
+.mit14imggf
+{
+
+    position: relative;
+    left: 95px;
+    height: 47px;
+    width: 54px;
+    top: 4px;
+    border: 1px solid white;
+    border-radius: 50%;
+    background-image: url("https://media.istockphoto.com/id/862263568/photo/studio-shot-of-young-african-man-wearing-black-shirt-in-black-and-white.jpg?b=1&s=170667a&w=0&k=20&c=bCo6B8_Cueg7Og2-5f9e9T4TJfYvBfXS9hCsAfubUJs=");
+    background-size: cover;
+
+
+
+
+   
+    
+
+    
+}
+.mitcard14body
+{
+  
+    width: 100%;
+    border-radius: 15px;
+    color: white;
+     display: flex;flex-shrink: 3;
+    flex-direction: column;
+    padding-left: -10px;
+   
+}
+#circle {
+    background: #27B13F;
+    border-radius: 50%;
+    width: 192px;
+    height: 188px;
+    position: relative;
+    top: 26px;
+    left: 132px;
+
+}
+#circle:hover{
+    background-color: #ba254f;
+    border-radius: 50%;
+    width: 192px;
+    height: 188px;
+    position: relative;
+    top: 26px;
+    left: 132px;
+}
+#square {
+    border-radius: 26px;
+    width: 48px;
+    height: 85px;
+    text-align: center;
+    font-size: 2rem;
+    position: relative;
+color: white;
+    background: #C40566;
+  }
+  .sdafdsvvdfqwwqwd{
+    position: relative;
+    left: 140px;
+    /* margin: auto; */
+  }
+  .button2{
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 21px;
+    padding: 4px 25px;
+    margin: 44px 27px;
+    border-radius: 6px;
+
+}
+  .button21{
+    background-color: #ba254f;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 21px;
+    padding: 4px 25px;
+    margin: 44px -13px;
+    border-radius: 6px;
+
+}
+.mkoiutfgg{
+    position: relative;
+    left: 240px;
+}
+.button4{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+
+
+#triangle-right {
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 46px 0 46px 63px;
+    border-color: transparent transparent transparent #ffffff;
+    position: relative;
+    top: 48px;
+    left: 76px;
+  }
+.textgre
+{
+    font-size: 15px;
+    font-weight: bold;
+    color: green;
+}
+.accordion-flush
+{
+    position: relative;
+    width: 65%;
+    bottom: 10px;
+}
+.headin2
+{
+    font-size: 20px;
+    display: inline;
+    margin-right: 5px;
+}
+.align
+{
+    align-self: center;
+    margin-top: 10px;
+}
+.align2
+{
+    margin-left: 16px;
+    position: relative;
+    top: 5px;
+  display: flex;
+  align-items: center;
+
+}
+.countcontain
+{
+    margin-top: 48px;
+    align-self: center;
+     display: flex;flex-shrink: 3;
+    justify-content: space-evenly;
+ 
+}
+.circle
+{
+   height: 30px;
+   width: 30px;
+   background-color: #ba254f;
+    display: flex;flex-shrink: 3;
+   justify-content: space-evenly;
+   align-items: center;
+   border-radius: 50%;
+   color: white;
+   cursor: pointer;
+   margin-bottom: 10px;
+}
+.circle:hover
+{
+   
+   background-color: green;
+}
+.play
+{
+    height: 150px;
+    width: 150px;
+    background-color: #ba254f;
+  
+    border-radius: 50%;
+     display: flex;
+     flex-shrink: 3;
+   justify-content: center;
+   align-items: center;
+}
+.headin2
+{
+    margin-top: -5px;
+}
+.collapsed
+{
+
+    
+box-shadow: 0px 0px 5px black;  
+border-radius: 15px;
+   /* color: white; */
+    
+}
+.mitcard14body2
+{
+   
+    width: 100%;
+    border-radius: 15px;
+    color: white;
+     display: flex;
+     flex-shrink: 3;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+  
+    
+}
+.mitcard14body23
+{
+    
+    background-color:#707588 ;
+    margin-left: 20px;
+    width: 390px;
+    border-radius: 15px;
+    color: white;
+     display: flex;
+     flex-shrink: 3;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    margin-top: -20px;
+  border: 1px solid white;
+  margin-bottom: -10px;
+  padding-bottom:10px;
+}
+.start-button
+{
+   
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 21px;
+    padding: 9px 25px;
+    margin: 92px 27px;
+    position: relative;
+    border-radius: 6px;
+    top: 17px;
+    left: 8px;
+}
+.accordion-button
+{
+    height: 69px;
+    background-color: #353A50;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 651px;
+}
+.accordion-button:not(.collapsed){
+    background-color: #353A50  ;
+}
+.stop-button
+{
+   
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 21px;
+    padding: 4px 25px;
+    margin: 44px 27px;
+    border-radius: 6px;
+
+}
+.reset-button
+{
+    background-color: #ba254f;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 21px;
+    padding: 4px 25px;
+    margin: 44px -13px;
+    border-radius: 6px;
+    
+}
+
+.chcom
+{
+     display: flex;
+     flex-shrink: 3;
+     height: 40px;
+     align-items: flex-start;
+     justify-content: flex-start;
+     margin-bottom: 10px;
+   
+}
+.chcoms
+{
+    margin-top: 10px;
+     display: flex;
+     flex-direction: column;
+     flex-shrink: 3;
+     height: 40px;
+     align-items: flex-start;
+     justify-content: flex-start;
+     margin-bottom: 10px;
+     width: 558px;
+   
+}
+.containervertcard
+{
+    
+    display: flex;
+    flex-shrink: 3;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.fa-play{
+    position: relative;
+    display: block;
+    bottom: 15px;
+
+}
+#counter
+{
+    position: relative;
+    color: black;
+display: none;
+    font-size: large;
+    position: relative;
+    bottom: 100px;
+    left: 8px;
+    font-size: 2em;
+ 
+}
+.mitcardimg
+{
+    position: relative;
+    bottom: -7px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-left: -80px;
+}
+.mitcardimg2
+{
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-left: -80px;
+    margin-top: -20px;
+}
+.collapse {
+    visibility: visible;
+}
+
+
+#flush-collapseOne
+{
+  
+/* border: 2px solid white; */
+    border: none;
+    background-color:#111827;
+ 
+}
+.btnconta
+{
+     display: flex;
+     flex-shrink: 3;
+    justify-content: space-evenly;
+}
+.bl
+{
+    color: white;
+    font-size: small;
+}
+.dl
+{
+    color: white;
+    font-size: small;
+    margin-top: -50px;
+}
+.cp
+{
+    border: 1px solid black;
+}
+.anchcol
+{
+    color: white;
+}
+.dotedpl
+{
+    height: 180px;
+    width: 180px;
+
+
+    border-radius: 50%;
+     display: flex;flex-shrink: 3;
+   justify-content: center;
+   align-items: center;
+   border-right: 5px solid #C40566;
+}
+.planpl
+{
+       position: relative;
+    left: 29px;
+    top: 9px;
+    height: 210px;
+    width: 210px;
+    margin-top: 10px;
+    margin-left: 25%;
+    border-radius: 50%;
+    display: flex;
+    flex-shrink: 3;
+    justify-content: center;
+    align-items: center;
+    border-right: 5px solid #C40566;
+
+}
+.usercircle
+{
+    color: green;
+}

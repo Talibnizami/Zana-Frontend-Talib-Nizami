@@ -1,0 +1,40 @@
+.container
+{
+    width: 950px;
+    height: 90vh;
+    border-radius: 30px;
+     display: flex;flex-shrink: 3;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+#conpara
+{
+    color: white;
+    line-height: -40px;
+}
+#createser
+{
+    font-family: inherit;
+    border-radius: 6px;
+    font-size: 17px;
+    margin-top: 25px;
+    background-color: #ba254f;
+    color: white;
+     border: none;
+    height: 50px;
+    width: 200px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+.text
+{
+    color: white;
+    font-weight: lighter;
+}
+.selecmem
+{
+    color: white;
+    margin-top: 20px;
+}

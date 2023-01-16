@@ -1,0 +1,148 @@
+.sharecontainer
+{
+height: 90%;
+ display: flex;flex-shrink: 3;
+}
+.leftcontainer
+{
+    width: 60%;
+    height: 100%;
+}
+.rightcontainer
+{
+    width: 40%;
+    height: 100%;
+    
+}
+.programcont
+{
+    height: 39%;
+    width: 90%;
+    border: 1px solid green;
+    border-radius: 10px;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:rgb(39, 43, 62) ;
+}
+.colorwhite
+{
+    color: white;
+}
+.alignment
+{
+    margin-left: 10%;
+     display: flex;flex-shrink: 3;
+    justify-content: space-evenly;
+    margin-top: 20px;
+    width: 60%;
+    margin-bottom: 30px;
+}
+.hdisp
+{
+    display:inline;
+    margin-left: 45px;
+}
+.ld
+{
+    color: white;
+}
+.Spillere
+{
+    height: 150px;
+    width: 90%;
+    background-color:rgb(39, 43, 62) ;
+    box-shadow: 0px 0px 3px gray;
+    margin-top: 5px;
+}
+.Spillerecont{
+    margin-left: auto;
+    margin-right: auto;
+  margin-top: 10px;
+    height: 50%;
+    width: 90%;
+}
+.Midt
+{
+    height: 30px;
+    width: 45%;
+    margin-left: 20px;
+    border-radius: 5px;
+    color: white;
+    background-color:rgb(39, 43, 62) ;
+    border: none;
+    box-shadow: 0px 0px 3px gray;
+}
+.Spiller
+{
+    height: 70%;
+    width: 85%;
+    border: 1px solid white;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+    background-color:rgb(39, 43, 62) ;
+    border-radius: 10px;
+}
+.upperspil
+{
+    height: 40px;
+    border-top-right-radius:10px ;
+    border-top-left-radius:10px ;
+    background-color:rgba(19, 21, 31, 0.435);
+     display: flex;flex-shrink: 3;
+    justify-content: space-evenly;
+    align-items: center;
+    box-shadow: 0px 0px 3px gray;
+}
+
+.upperspi
+{
+    height: 40px;
+    background-color:rgba(19, 21, 31, 0.72);
+     display: flex;flex-shrink: 3;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.upperspil >div{
+    border-left: 1px solid white;
+    padding: 10px;
+    height: 30px;
+     display: flex;flex-shrink: 3;
+    justify-content: space-evenly;
+    align-items: center;
+    color: gray;
+
+}
+.mar{
+  
+   margin-left: -2px;
+}
+.mari{
+  
+   margin-left: 80px;
+}
+.radiobtn
+{
+    height: 15px;
+    width: 20px;
+    margin-left: -15px;
+}
+.ma
+{
+    color: #ba254f;
+}
+.upperspi >div{
+    color: white;
+}
+.btncert
+{
+    margin-top: -40px;
+     display: flex;
+     flex-shrink: 3;
+    justify-content: space-evenly;
+}
+.cpink
+{
+    color: #ba254f;
+}

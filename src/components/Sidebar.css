@@ -1,0 +1,153 @@
+.njiuhbg{
+    position: relative;
+    right: 16px;
+}
+#submenu1{
+    display: none;
+}
+#submenu3{
+    display: none;
+}
+.notoyp{
+    position: relative;
+    top: 20px;
+    left: 70px;
+}
+
+.nativeio:hover{
+    color: white;
+background-color: rgb(186, 37, 79);
+}
+#submenu{
+    display: none;
+}
+
+
+.logo
+{
+flex: 1;
+border-bottom: 1px solid black;
+ display: flex;flex-shrink: 3;
+justify-content: center;
+align-items: center;
+color: white;
+margin-left: 20px;
+}
+.option
+{
+    flex: 10;
+
+}
+.headi
+{
+    
+    color: rgb(216, 55, 100);
+    align-self: center;
+    margin-bottom: -5%;
+
+}
+.log
+{
+    margin-left: 10%;
+    margin-top: 20px;
+    height: 12%;
+    width: 55%;
+    align-self: center;
+}
+.adminpic
+{
+    height: 20%;
+    width: 40%;
+    /* border: 1px solid white; */
+    margin-left: 60px;
+    border-radius: 50%;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    background-image: url("../Images/admin-image.png");
+    background-size: cover;
+}
+.timeshow
+{
+    color: rgb(255, 255, 255);
+    margin-top: -12px;
+    font-size: 20px;
+    font-weight: 400;
+    margin-left: 20px;
+}
+.subparent
+{
+    text-decoration: none;
+    list-style-type: none;
+     display: flex;
+     flex-shrink: 3;
+    flex-direction:column;
+}
+.sub{
+
+    height: 40px;
+     display: flex;flex-shrink: 3;
+    padding: 10px;
+    align-items: center;
+    border-radius: 5px;
+    font-size: 15px;
+}
+.sub link
+{
+    color: white;
+    font-size: 15px;
+}
+.sub:hover
+{
+    background-color: #ba254f;
+    color: green;
+}
+
+a
+{
+    text-decoration: none;
+    margin-left: 10px;
+    cursor: pointer;
+    color: white;
+}
+a:hover
+{
+color: white;
+}
+.main
+{
+    width:20%;
+    background-color:#2A2E43;
+
+     
+}
+
+.sidebar
+{
+    padding: 10px;
+    /* width: 1000%; */
+}
+
+option{
+  
+    height: 40px;
+    border-bottom: 1px solid white;
+}
+.elect{
+   
+    height: 40px;
+    border-bottom: 1px solid white;
+    border: none;
+    background-color: transparent;
+}
+.innerlist
+{
+    border-radius: 10px;
+    background-color: rgb(90, 94, 114);
+    margin-top: 5px;
+    /* padding-right: 40px; */
+    width: 220px;
+   
+}
+.innerlist >li{
+    margin-left: -20px;
+}

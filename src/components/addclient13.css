@@ -1,0 +1,36 @@
+#markxd324{
+    position: relative;
+    top: 20px;
+    margin-left: 850px;
+    margin-top: -100px;
+    color: #ba254f;
+    height: 40px;
+    width: 40px;
+    background-color: #26293B;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    box-shadow: 0px 0px 1px #707070;
+}
+
+label
+{
+    color: white;
+}
+.op{
+    margin-top: 20px;
+
+}
+.textarea
+{
+    background-color: transparent;
+    box-shadow: 0px 0px 5px gray;
+}
+.textaread
+{
+    background-color: transparent;
+    border: 1px solid #FF0349;
+    margin-top: 30px;
+    background-color: #323752;
+}

@@ -1,0 +1,70 @@
+.mitcard
+{
+    height: 150px;
+    width: 250px;
+    border-end-end-radius: 15px;
+    border-end-start-radius: 15px;
+    box-shadow: 2px 2px 4px black;
+}
+.mitcardhead
+{
+    height: 40%;
+    background-color: rgba(32, 30, 30, 0.555);
+     display: flex;flex-shrink: 3;
+    justify-content: center;
+    align-items: center;
+}
+.mitcardfooter
+{
+     display: flex;flex-shrink: 3;
+    align-items: center;
+    padding: 5px;
+    flex-direction: column;
+}
+.fa-person-running
+{
+margin-top: 10px;
+}
+.cretbtn
+{
+     background-color: rgb(94, 92, 93);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+    box-shadow: 2px 4px black;
+}
+.cretbtndf
+{
+     background-color: rgb(94, 92, 93);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+   margin-top: -150px;
+   margin-left: -150px;
+    cursor: pointer;
+    border-radius: 5px;
+    box-shadow: 2px 4px black;
+}
+.leftside
+{
+    margin-left: -600px;
+    margin-top: -100px;
+}
+.imgsetting
+{
+    height: 40px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    width: 120px;
+}

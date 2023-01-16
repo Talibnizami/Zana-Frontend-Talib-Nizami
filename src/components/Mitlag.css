@@ -1,0 +1,21 @@
+.cardbodydif
+{
+    height: 60%;
+    width: 100%;
+     display: flex;flex-shrink: 3;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column-reverse;
+    background-color: transparent;
+}
+#Addprobtn
+{
+    height: 40px;
+    width: 120px;
+    background-color:rgb(204,20,71) ;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    margin-bottom: 5px;
+}

@@ -1,0 +1,5 @@
+.content-container {
+  padding: 30px;
+  min-height: calc(100vh - 150px);
+  background-image: linear-gradient(#2a2e43, #13151f, #13151f, #08090d);
+}

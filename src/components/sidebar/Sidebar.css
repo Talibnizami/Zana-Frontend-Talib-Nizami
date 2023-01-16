@@ -1,0 +1,83 @@
+.sidebar-container {
+  width: 18rem;
+  border-right: 1px solid #d4d4d4;
+  min-height: 100vh;
+  padding: 20px 10px;
+   display: flex;flex-shrink: 3;
+  flex-direction: column;
+  align-items: center;
+  background-color: #2a2e43;
+  color: white;
+}
+
+.menu-container {
+  padding: 10px;
+  cursor: pointer;
+  text-decoration: none;
+  color: white;
+}
+
+.menu-container:hover {
+  color: white;
+}
+
+.menu-container-background {
+  background-color: #353a50;
+  border-radius: 10px;
+}
+
+.menu-container div,
+#clients-menu div {
+  width: 100%;
+   display: flex;flex-shrink: 3;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#clients-menu div {
+  margin: 5px 0;
+}
+
+.menu-container div svg {
+  width: 25px;
+  height: 25px;
+}
+
+.menu-container div svg:nth-child(1) {
+  margin-right: 20px;
+}
+
+.edit-profile-icon-container {
+  background-color: #2a2e43;
+  box-shadow: 0px 0px 18px -3px black;
+  border-radius: 10px;
+  margin-left: 10px;
+  padding: 5px 2px;
+}
+
+.edit-profile-icon-container svg {
+  color: #ff0349;
+  margin: auto 0;
+  cursor: pointer;
+}
+
+.profile-extra-function-container {
+  background-color: #3a3e50;
+  position: absolute;
+  right: 0;
+  padding: 10px;
+  box-shadow: 0px 0px 18px -3px black;
+  text-align: center;
+  width: 100px;
+}
+
+.profile-form-container {
+  width: 100%;
+  border-radius: 10px;
+  background-color: #1a1e32;
+  padding: 20px;
+  margin: 10px 0;
+}
+.profile-extra-function-container a {
+  cursor: pointer;
+}
